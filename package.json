@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ososuna/cron-ticker#readme",
   "dependencies": {
     "node-cron": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
   }
 }
